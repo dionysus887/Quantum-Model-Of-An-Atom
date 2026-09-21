@@ -49,3 +49,7 @@ $\Psi_{n,l,m}(r, \theta, \phi) = R_{n,l}(r) Y_{l}^{m}(\theta, \phi)$
 * Radial Part $R_{n,l}(r)$: Solved via Generalized Laguerre polynomials $L_{n-l-1}^{2l+1}(\rho)$ where $\rho = \frac{2Zr}{n a_0}$
 * Angular Part $Y_{l}^{m}(\theta, \phi)$: Solved via Spherical Harmonics $Y_l^m$ & Associated Legendre polynomials $P_l^m(\cos\theta)$
 * Density Sampling: 3D point generation sampled according to probability distribution $P = \vert{}\Psi\vert{}^2$
+
+```bash
+P.S this program takes time to run please wait for 30-40 seconds for it to run
+```
